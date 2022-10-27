@@ -1,36 +1,36 @@
 [
     {
-      "courseId": "1",
+      "id": "1",
       "courseName": "Basic Electronics Application",
       "courseThumb": "https://www.elprocus.com/wp-content/uploads/2014/10/10-14-2014-5-54-33-PM.png",
       "description": "There are a number of basic concepts that form the foundations of today's electrical, electronics and radio technology. Electrical current, voltage, resistance, capacitance, and inductance are a few of the basic elements of electronics and radio.Apart from current, voltage, resistance, capacitance, and inductance, there are many other interesting elements to basic electronics technology. While some can become quite complicated, it is nevertheless possible to gain a good understanding of them without delving into the complicated depths of these topics.Our online basic electronics tutorials are expanding to cover the key basic concepts. Use Electronics Notes to learn electronics online."
     },
     {
-      "courseId": "2",
+      "id": "2",
       "courseName": "Fandamental Electronics Application",
       "courseThumb": "https://predictabledesigns.com/wp-content/uploads/2022/06/electronics-pcb-closeup.jpg",
       "description": "Many entrepreneurs launching a new electronic hardware product lack the engineering skills to design their own product. So they instead choose to outsource most, or all, of the development.That's of course fine, and outsourcing is a fantastic way to fill in any gaps in your own skill set. Nonetheless, I believe that a basic understanding of electronics is still important for anyone bringing an electronic product to market.As the founder of a hardware startup, you don't need to know how to do everything yourself, but to be successful you should have a fundamental understanding of all the various tasks you must manage."
     },
     {
-      "courseId": "3",
+      "id": "3",
       "courseName": "Microcontroller Operations",
       "courseThumb": "https://predictabledesigns.com/wp-content/uploads/2020/06/microchip-on-printed-circuit-board.jpg",
       "description": "A microcontroller is a compact integrated circuit designed to govern a specific operation in an embedded system. A typical microcontroller includes a processor, memory and input/output (I/O) peripherals on a single chip.Sometimes referred to as an embedded controller or microcontroller unit (MCU), microcontrollers are found in vehicles, robots, office machines, medical devices, mobile radio transceivers, vending machines and home appliances, among other devices. They are essentially simple miniature personal computers (PCs) designed to control small features of a larger component, without a complex front-end operating system (OS)."
     },
     {
-      "courseId": "4",
+      "id": "4",
       "courseName": "Microcontroller Programming",
       "courseThumb": "https://www.edlangley.co.uk/img/projects/picmicro-in-circuit-debuggers/icd1-second.jpg",
       "description": "This is a step by step guide for those who want to start with Microcontroller Programming. The article starts with introducing a few basic terms that will be used in the guide, a list of tools, programming languages and at end, an example of a downloadable code with a step by step guide that you could use to practice microcontroller programming. But before diving into Microcontroller Programing. Let's define first two basic terms: Hardware and Software."
     },
     {
-      "courseId": "5",
+      "id": "5",
       "courseName": "Arduino Crash Course",
       "courseThumb": "https://a.pololu-files.com/picture/0J7808.1200.jpg?8a7bee07ca7ffbb11e11f74e99f5c3a9",
       "description": "Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board. The Arduino platform has become quite popular with people just starting out with electronics, and for good reason. Unlike most previous programmable circuit boards, the Arduino does not need a separate piece of hardware (called a programmer) in order to load new code onto the board -- you can simply use a USB cable. Additionally, the Arduino IDE uses a simplified version of C++, making it easier to learn to program. Finally, Arduino provides a standard form factor that breaks out the functions of the micro-controller into a more accessible package."
     },
     {
-      "courseId": "6",
+      "id": "6",
       "courseName": "Sensors Are Awesome",
       "courseThumb": "http://cdn.shopify.com/s/files/1/0559/1970/6265/products/arduino-37-in-1-sensors-kit-1.jpg?v=1628227959",
       "description": "An electronic device that senses and responds quickly to physical changes such as distance, pressure, temperature, touch can be referred to as sensors. These are used commercially in various products for temperature monitoring, alarming circuits, and in the Home automation kits, etc… In the practical world, where the motive is to design a user-friendly environment such that various devices information can be controlled, sent, and monitored. This is made possible when the multiple sensors are interfaced with the Arduino board. The name Arduino comes from the Italian king 'Arduin of Ivrea' and it is invented around the year 2000. Because of the availability of it as open-source, it became successful under the platform of micro-controllers. Based on the applications required and the availability of the variety of sensors the required Arduino Sensor boards can be chosen."
